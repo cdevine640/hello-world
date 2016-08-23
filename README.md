@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Conor Devine. I am on placement at Allstate NI.
